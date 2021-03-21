@@ -7,5 +7,5 @@
 
 <h2> Contact </h2>
 
-  📫 E-mail: lukedev09@gmail.com <br/>
-  📫 Linkedin: https://www.linkedin.com/in/luke-yusuke-800a32209/
+ - 📫 E-mail: lukedev09@gmail.com <br/>
+ - 📫 Linkedin: https://www.linkedin.com/in/luke-yusuke-800a32209/
