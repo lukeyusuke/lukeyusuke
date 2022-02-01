@@ -30,9 +30,3 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeyusuke&layout=compact&langs_count=7&theme=midnight-purple"/>
   </div>
 </div>
-  
-<h1 align="center"> 
-  
-  ![Snake animation](https://github.com/lukeyusuke/lukeyusuke/blob/output/github-contribution-grid-snake.svg) <!--[cobrinha]-->
-  
-</h1>
