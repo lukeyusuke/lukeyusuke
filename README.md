@@ -1,4 +1,4 @@
-# �😄 Fala pessoal, eu sou o Luke
+# 😄 Fala pessoal, eu sou o Luke
 
 - 📖 Atualmente estou estudando Desenvolvimento Web (HTML, CSS e JavaScript)
 - 🔥 Estudando para ingressar na área como Desenvolvedor Front-End
