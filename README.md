@@ -22,11 +22,12 @@
 <br/>
 
  
-<div>
-  <h2> ⭐ Meus status </h2>
-  <div align="center">
-    <a href="https://github.com/lukeyusuke">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lukeyusuke&show_icons=true&theme=midnight-purple&midnight-          purpleinclude_all_commits=true&   count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeyusuke&layout=compact&langs_count=7&theme=midnight-purple"/>
-  </div>
+<h2> ⭐ Meus status </h2>
+<div align="center">
+  <a href="https://github.com/lukeyusuke">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lukeyusuke&show_icons=true&theme=midnight-purple&midnight-          purpleinclude_all_commits=true&   count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeyusuke&layout=compact&langs_count=7&theme=midnight-purple"/>
+
+  ![Snake animation](https://github.com/lukeyusuke/lukeyusuke/blob/output/github-contribution-grid-snake.svg)
+
 </div>
