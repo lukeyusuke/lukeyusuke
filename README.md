@@ -1,8 +1,9 @@
-# 😄 Fala pessoal, eu sou o Luke
+# 🤙 Fala pessoal, eu sou o Luke
 
 - 📖 Atualmente estou estudando Desenvolvimento Web (HTML, CSS e JavaScript)
 - 🔥 Estudando para ingressar na área como Desenvolvedor Front-End
 - 🖥️ Desenvolvendo projetos pessoais
+<br/>
 
 <div>
   <h2> 💻 Tecnologias que utilizo </h2>
@@ -13,6 +14,15 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"/>
     <img alt="JavaScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+<br/>
+
+<h2> 😄 Sobre mim </h2>
+
+- 📖 Atualmente estou estudando Desenvolvimento Web (HTML, CSS e JavaScript)
+- 🔥 Estudando para ingressar na área como Desenvolvedor Front-End
+- 🖥️ Desenvolvendo projetos pessoais
+
+<br/>
 
 <div>
   <h2> 📱 Entre em contato </h2>
