@@ -1,7 +1,7 @@
 # 🤙 Fala pessoal, eu sou o Luke
 
-- 📖 Atualmente estou estudando Desenvolvimento Web (HTML, CSS e JavaScript)
-- 🔥 Estudando para ingressar na área como Desenvolvedor Front-End
+- 📖 Atualmente estou estudando Desenvolvimento Web (HTML, CSS e JavaScript);
+- 🔥 Estudando para ingressar na área como Desenvolvedor Front-End;
 - 🖥️ Desenvolvendo projetos pessoais
 <br/>
 
@@ -16,11 +16,11 @@
 </div>
 <br/>
 
-<h2> 😄 Sobre mim </h2>
+<h2> 🙋 Sobre mim </h2>
 
-- 📖 Atualmente estou estudando Desenvolvimento Web (HTML, CSS e JavaScript)
-- 🔥 Estudando para ingressar na área como Desenvolvedor Front-End
-- 🖥️ Desenvolvendo projetos pessoais
+- 📰 Gosto de estudar diversos assuntos, pois assim me permaneço atualizado;
+- ✨ Acredito totalmente no meu potencial e na realização das minhas metas;
+- ⛹️‍♂️ Adoro praticar esportes, principalmente basquete
 
 <br/>
 
