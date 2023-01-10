@@ -3,7 +3,6 @@
 - 📖 Atualmente estou estudando Desenvolvimento Web (HTML, SASS e JavaScript);
 - 🔥 Estudando para ingressar na área como Desenvolvedor Front-End;
 - 🖥️ Desenvolvendo projetos pessoais
-- 
 <br/>
 
 ## 💻 Tecnologias que utilizo
