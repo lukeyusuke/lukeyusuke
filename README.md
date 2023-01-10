@@ -1,9 +1,7 @@
 # 🤙 Fala pessoal, eu sou o Luke
 
 - 📖 Atualmente estou estudando Desenvolvimento Web (HTML, SASS e JavaScript);
-
 - 🔥 Estudando para ingressar na área como Desenvolvedor Front-End;
-
 - 🖥️ Desenvolvendo projetos pessoais
 
 <br/>
@@ -29,6 +27,6 @@
 <div display="flex">
 <img width="420em" src="https://github-readme-stats.vercel.app/api?username=lukeyusuke&show_icons&theme=midnight-purple"/>
 <img width="413em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeyusuke&layout=compact&theme=midnight-purple"/>
-<div>
+</div>
 
 ![Snake animation](https://github.com/lukeyusuke/lukeyusuke/blob/output/github-contribution-grid-snake.svg)
