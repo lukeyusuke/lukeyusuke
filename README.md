@@ -10,17 +10,17 @@
 
 ## 💻 Tecnologias que utilizo
 
-![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3&logoColor=3492CB)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=SASS&logoColor=C26191)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5"/></a>&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3&logoColor=3492CB"/></a>&nbsp;
+<a href="https://sass-lang.com" target="_blank"><img src="https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=SASS&logoColor=C26191"/></a>&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript"/></a>&nbsp;
 
 <br/>
 
 ## 📱 Entre em contato
 
-![Gmail](https://img.shields.io/badge/-EMAIL-000?style=for-the-badge&logo=GMAIL)&nbsp;
-![Linkedin](https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=0071AE)
+<a href="mailto:lukedev09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-EMAIL-000?style=for-the-badge&logo=GMAIL"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/lukeyusuke" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=0071AE"/></a>
 
 <br/>
  
