@@ -15,18 +15,9 @@
 
 <br/>
 
-## 📱 Entre em contato
-
-<a href="mailto:lukedev09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-EMAIL-000?style=for-the-badge&logo=GMAIL"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/lukeyusuke" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=0071AE"/></a>
-
-<br/>
- 
 ## ⭐ Meu status
 
 <div display="flex">
 <img width="420em" src="https://github-readme-stats.vercel.app/api?username=lukeyusuke&show_icons&theme=midnight-purple"/>
 <img width="413em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeyusuke&layout=compact&theme=midnight-purple"/>
 </div>
-
-![Snake animation](https://github.com/lukeyusuke/lukeyusuke/blob/output/github-contribution-grid-snake.svg)
