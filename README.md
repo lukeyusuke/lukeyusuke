@@ -1,6 +1,7 @@
 # 🤠 Fala galera, sou o Luke, desenvolvedor web
 
 📖 Atualmente estudando Desenvolvimento Web<br/>
+🧑‍💻 Atuo como frellancer, se precisar, chama aí<br/>
 🎓 Cursando Ciência da Computação na FAM<br/>
 💻 Desenvolvendo projetos pessoais <br/>
 
